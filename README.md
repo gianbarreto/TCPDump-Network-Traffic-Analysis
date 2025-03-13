@@ -91,7 +91,7 @@ tcpdump -i eth0 port <PORT_NUMBER>
 ```
 ![Img8](./images/8.png)
 
-**Exporting Captured Data**
+### Exporting Captured Data
 
 To save captured packets for later analysis (e.g., in Wireshark), use the -w option to generate a .pcap file:
 
