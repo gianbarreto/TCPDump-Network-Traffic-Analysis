@@ -40,9 +40,9 @@ tcpdump -i eth0 host <IP_ADDRESS> -v
 ```
 ![Img2](./images/2.png)
 
-- host: Filters traffic by a specific IP address.
+host: Filters traffic by a specific IP address.
 
-- -v: Provides verbose output for detailed information.
+-v: Provides verbose output for detailed information.
 
 **Filter by Destination**
 
