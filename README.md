@@ -8,11 +8,11 @@ TCPDump is a widely-used network sniffing tool that enables users to capture and
 
 ## Skills Acquired
 
-- **Network Traffic Analysis: Gained hands-on experience in capturing and analyzing network traffic using TCPDump.**
-- **Filtering Techniques: Learned to apply various filters to narrow down traffic based on host, destination, protocol, and port.**
-- **Subnet Scanning: Explored how to capture traffic across an entire subnet.**
-- **Data Exporting: Practiced exporting captured data into .pcap files for further analysis in tools like Wireshark.**
-- **Command-Line Proficiency: Improved command-line skills by working with TCPDump and its options.**
+- **Network Traffic Analysis:** Gained hands-on experience in capturing and analyzing network traffic using TCPDump.
+- **Filtering Techniques:** Learned to apply various filters to narrow down traffic based on host, destination, protocol, and port.
+- **Subnet Scanning:** Explored how to capture traffic across an entire subnet.
+- **Data Exporting:** Practiced exporting captured data into .pcap files for further analysis in tools like Wireshark.
+- **Command-Line Proficiency:** Improved command-line skills by working with TCPDump and its options.
 
 ## Documentation
 
